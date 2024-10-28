@@ -1,6 +1,7 @@
 # Python Web Scraper
 ## Description
 This python program scrapes 10 Space related web pages for their information. It will not scrape ads, comments, or any other useless information.
+This program can be easily altered to use other articles from the same website, allowing users to easily catch up on space news.
 
 ## Getting Started:
 ### Setting Up An Environment:
